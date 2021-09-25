@@ -1,7 +1,0 @@
-{
-  "name": "ServiExpress",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
